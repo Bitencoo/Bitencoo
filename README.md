@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tulio</h1>
 <h3 align="center">A software developer mainly focused on backend</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bitencoo&label=Profile%20views&color=0e75b6&style=flat" alt="bitencoo" /> </p>
-
-
 - 🔭 I’m currently working on **Microservices with Spring Boot**
 
 - 🌱 I’m currently learning **Spring Framework, Kafka, SOLID**
