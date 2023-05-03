@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **tuliob.dev@gmail.com**
 
-- ⚡ Fun fact **Passionate about technology and crazy about japanese culture. PS: I have 12 dogs...**
+- ⚡ Fun fact **Passionate about technology and crazy about japanese culture and I have 12 dogs...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
