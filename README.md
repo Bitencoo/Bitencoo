@@ -4,6 +4,13 @@
 Hello, I'm Tulio.
 I'm a software engineer currently working for EY Brazil. I'm mainly focused on Backend, but sometimes I play around with Flutter Web and Mobile. 
 
+Feel free to contact me at: tuliob.dev@gmail.com
+
+My Links
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tulio-bitencourt-a10267209/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCPv4cZsh9EMjDHCYKJ5TyXw)
+
 Tech Stack - Frameworks
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -33,4 +40,13 @@ What I'm currently learning:
 - Docker
 - Kubernetes
 
-Feel free to contact me at: tuliob.dev@gmail.com
+
+📚 Books I recommend:
+- The Pragmatic Programmer (Andy Hunt, Dave Thomas)
+- Microservices Patterns: With Examples in Java (Chris Richardson)
+- Cracking the Coding Interview: 189 Programming Questions and Solutions (Gayle Laakmann McDowell)
+- Elements of Programming Interviews (Adnan Aziz, Tsung-Hsien Lee, Amit Prakash)
+- Design Patterns (Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides)
+- System Design Interview – An insider's guide (Alex Xu)
+- System Design Interview – An Insider's Guide: Volume 2 (Alex Xu, Sahn Lam)
+
