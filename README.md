@@ -34,13 +34,6 @@ Databases
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 
-What I'm currently learning:
-
-- gRPC (Java and Go)
-- Docker
-- Kubernetes
-
-
 📚 Books I recommend:
 - The Pragmatic Programmer (Andy Hunt, Dave Thomas)
 - Microservices Patterns: With Examples in Java (Chris Richardson)
