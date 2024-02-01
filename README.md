@@ -6,10 +6,14 @@ I'm a software engineer currently working for EY Brazil. I'm mainly focused on B
 
 Feel free to contact me at: tuliob.dev@gmail.com
 
-CV English -> [Curriculum](https://drive.google.com/file/d/13ukzG83nwEyX3zVNBdEy3t0ji4ZyAIAc/view?usp=sharing) UPDATED 01/2024
+UPDATED 01/31/2024
 
-CV Português -> [Currículo](https://drive.google.com/file/d/1vT5qgmXItUU06RS_EOPn5Fdh-wyW8x8Y/view?usp=sharing) ATUALIZADO 01/2024
+CV English -> [Curriculum](https://drive.google.com/file/d/13ukzG83nwEyX3zVNBdEy3t0ji4ZyAIAc/view?usp=sharing) 
 
+CV Português -> [Currículo](https://drive.google.com/file/d/1vT5qgmXItUU06RS_EOPn5Fdh-wyW8x8Y/view?usp=sharing)
+
+
+  
 My Links
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tulio-bitencourt-a10267209/)
