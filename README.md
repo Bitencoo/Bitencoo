@@ -2,7 +2,7 @@
 <h3 align="center">A software engineer from Brazil</h3>
 
 Hello, I'm Tulio.
-I'm a software engineer currently working for EY Brazil. I'm mainly focused on Backend, but sometimes I play around with Flutter Web and Mobile. 
+I'm a software engineer currently working for GFT Brazil. I'm mainly focused on Backend, but sometimes I play around with Flutter Web and Mobile. 
 
 Feel free to contact me at: tuliob.dev@gmail.com
 
