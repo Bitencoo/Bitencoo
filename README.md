@@ -8,10 +8,7 @@ Feel free to contact me at: tuliob.dev@gmail.com
 
 UPDATED 09/21/2024
 
-CV English -> [Curriculum](https://drive.google.com/file/d/13ukzG83nwEyX3zVNBdEy3t0ji4ZyAIAc/view?usp=sharing) 
-
-CV Português -> [Currículo](https://drive.google.com/file/d/1vT5qgmXItUU06RS_EOPn5Fdh-wyW8x8Y/view?usp=sharing)
-
+CV -> [Curriculum](https://drive.google.com/file/d/13ukzG83nwEyX3zVNBdEy3t0ji4ZyAIAc/view?usp=sharing) 
 
   
 My Links
