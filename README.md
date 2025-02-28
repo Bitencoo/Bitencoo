@@ -6,7 +6,7 @@ I'm a software engineer currently working for GFT Brazil. I'm mainly focused on 
 
 Feel free to contact me at: tuliob.dev@gmail.com
 
-UPDATED 2/28/2024
+UPDATED 2/28/2025
 
 CV -> [Curriculum](https://drive.google.com/file/d/13ukzG83nwEyX3zVNBdEy3t0ji4ZyAIAc/view?usp=sharing)
 
