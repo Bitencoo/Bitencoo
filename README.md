@@ -6,15 +6,14 @@ I'm a software engineer currently working for GFT Brazil. I'm mainly focused on 
 
 Feel free to contact me at: tuliob.dev@gmail.com
 
-UPDATED 09/21/2024
+UPDATED 2/28/2024
 
-CV -> [Curriculum](https://drive.google.com/file/d/13ukzG83nwEyX3zVNBdEy3t0ji4ZyAIAc/view?usp=sharing) 
+CV -> [Curriculum](https://drive.google.com/file/d/13ukzG83nwEyX3zVNBdEy3t0ji4ZyAIAc/view?usp=sharing](https://drive.google.com/file/d/13ukzG83nwEyX3zVNBdEy3t0ji4ZyAIAc/view?usp=sharing) 
 
   
 My Links
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tulio-bitencourt-a10267209/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCPv4cZsh9EMjDHCYKJ5TyXw)
 
 Tech Stack - Frameworks
 
